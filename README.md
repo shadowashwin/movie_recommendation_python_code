@@ -1,6 +1,6 @@
 # Movie Recommendation Model 🎥📚  
 
-![Movie Recommendation Model](https://via.placeholder.com/1200x400.png?text=Movie+Recommendation+Model)  
+![Movie Recommendation Model](https://drive.google.com/file/d/1csDMz1PbRxXK70n92wB8rmfOc9HvotFw/view?usp=sharing)  
 
 ## About the Project  
 
